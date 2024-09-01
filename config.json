@@ -1,0 +1,29 @@
+{
+    "folders":[
+        "songs",
+        "images",
+        "images/characters",
+        "images/game",
+        "images/game/notes",
+        "data",
+        "data/characters"
+    ],
+    "charlist":[
+        "roach",
+        "roach-die",
+        "poopmadness",
+        "ifu",
+        "ifu-small",
+        "ifu-threat",
+        "hallo-ifu"
+    ],
+    "songs":[
+        {"name":"crunch","voicesname":["Voices"],"additional":[]},
+        {"name":"milkyway","voicesname":["Voices"],"additional":[]},
+        {"name":"choke-a-lot","voicesname":["Voices"],"additional":[]},
+        {"name":"legacy","voicesname":["Voices"],"additional":[]},
+        {"name":"threat","voicesname":["Voices"],"additional":[]},
+        {"name":"rattled","voicesname":["Voices"],"additional":[]}
+    ],
+    "noteskins":["default"]
+}
