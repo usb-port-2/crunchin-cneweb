@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character flipX="true">
+	<anim name="danceLeft" anim="il" x="0" y="0" fps="16" loop="false"/>
+	<anim name="danceRight" anim="ir" x="0" y="0" fps="16" loop="false"/>
+	<anim name="idle-BF" anim="i-bf" x="0" y="0" fps="16" loop="false"/>
+	<anim name="idle-POOP" anim="i-pm" x="0" y="0" fps="16" loop="false"/>
+	<anim name="look-POOP" anim="look-pm" x="0" y="0" fps="16" loop="false"/>
+	<anim name="look-bf" anim="look-bf" x="0" y="0" fps="16" loop="false"/>
+	<anim name="smile" anim="smile" x="0" y="0" fps="16" loop="false"/>
+</character>

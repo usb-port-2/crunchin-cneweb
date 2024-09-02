@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character flipX="true">
+	<anim name="firstDeath" anim="die" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="loop" x="-5" y="-370" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="confirm" x="-5" y="-235" fps="24" loop="false"/>
+</character>
