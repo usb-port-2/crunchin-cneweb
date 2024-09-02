@@ -18,21 +18,21 @@
         "hallo-ifu"
     ],
     "songs":[
-        {"name":"crunch","voicesname":["Voices"],"additional":[]},
-        {"name":"milkyway","voicesname":["Voices"],"additional":[]},
-        {"name":"choke-a-lot","voicesname":["Voices"],"additional":[]},
-        {"name":"doubt","voicesname":["Voices"],"additional":[]},
-        {"name":"hope","voicesname":["Voices"],"additional":[]},
-        {"name":"reunion","voicesname":["Voices"],"additional":[]},
-        {"name":"smile","voicesname":["Voices"],"additional":[]},
-        {"name":"order up","voicesname":["Voices"],"additional":[]},
-        {"name":"last course","voicesname":["Voices"],"additional":[]},
-        {"name":"soundtest","voicesname":["Voices"],"additional":[]},
-        {"name":"alert","voicesname":["Voices"],"additional":[]},
-        {"name":"legacy","voicesname":["Voices"],"additional":[]},
-        {"name":"rattled","voicesname":["Voices"],"additional":[]}
-        {"name":"threat","voicesname":["Voices"],"additional":[]},
-        {"name":"rumor","voicesname":["Voices"],"additional":[]}
+        {"name":"crunch","additional":[]},
+        {"name":"milkyway","additional":[]},
+        {"name":"choke-a-lot","additional":[]},
+        {"name":"doubt","additional":[]},
+        {"name":"hope","additional":[]},
+        {"name":"reunion","additional":[]},
+        {"name":"smile","additional":[]},
+        {"name":"order up","additional":[]},
+        {"name":"last course","additional":[]},
+        {"name":"soundtest","additional":[]},
+        {"name":"alert","additional":[]},
+        {"name":"legacy","additional":[]},
+        {"name":"rattled","additional":[]},
+        {"name":"threat","additional":[]},
+        {"name":"rumor","additional":[]}
     ],
     "noteskins":["default"]
 }
