@@ -3,15 +3,15 @@
 	"opponentModeAllowed": false,
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
-	"bpm": 169,
+	"bpm": 128,
 	"difficulties": [
 		"NORMAL"
 	],
 	"needsVoices": true,
 	"parsedColor": -7179779,
-	"displayName": "choke-a-lot",
-	"icon": "cereal-die",
-	"name": "choke-a-lot",
+	"displayName": "rattled",
+	"icon": "isthatfuckingpapyrus",
+	"name": "rattled",
 	"color": "#9271FD",
 	"customValues": {}
 }
