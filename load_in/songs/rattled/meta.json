@@ -1,17 +1,1 @@
-{
-	"beatsPerMeasure": 4,
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
-	"stepsPerBeat": 4,
-	"bpm": 128,
-	"difficulties": [
-		"NORMAL"
-	],
-	"needsVoices": true,
-	"parsedColor": -7179779,
-	"displayName": "rattled",
-	"icon": "isthatfuckingpapyrus",
-	"name": "rattled",
-	"color": "#9271FD",
-	"customValues": {}
-}
+{"beatsPerMeasure": 4,"stepsPerBeat": 4,"bpm": 128,"needsVoices": true,"displayName": "Rattled","name": "rattled"}

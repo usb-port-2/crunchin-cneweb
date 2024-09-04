@@ -1,17 +1,1 @@
-{
-	"beatsPerMeasure": 4,
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
-	"stepsPerBeat": 4,
-	"bpm": 165,
-	"difficulties": [
-		"NORMAL"
-	],
-	"needsVoices": true,
-	"parsedColor": -7179779,
-	"displayName": "last course",
-	"icon": "epicface",
-	"name": "last course",
-	"color": "#9271FD",
-	"customValues": {}
-}
+{"beatsPerMeasure": 4,"stepsPerBeat": 4,"bpm": 165,"needsVoices": true,"displayName": "Last Course","name": "last course"}

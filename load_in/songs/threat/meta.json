@@ -1,17 +1,1 @@
-{
-	"beatsPerMeasure": 4,
-	"opponentModeAllowed": false,
-	"coopAllowed": false,
-	"stepsPerBeat": 4,
-	"bpm": 100,
-	"difficulties": [
-		"NORMAL"
-	],
-	"needsVoices": true,
-	"parsedColor": -7179779,
-	"displayName": "threat",
-	"icon": "poopmadness",
-	"name": "threat",
-	"color": "#9271FD",
-	"customValues": {}
-}
+{"beatsPerMeasure": 4,"stepsPerBeat": 4,"bpm": 100,"needsVoices": true,"displayName": "Threat","name": "threat"}
