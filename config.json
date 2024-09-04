@@ -18,15 +18,15 @@
         "hallo-ifu"
     ],
     "songs":[
-        {"name":"crunch","scripts":[]},
-        {"name":"milkyway","scripts":[]},
-        {"name":"choke-a-lot","scripts":[]},
+        {"name":"crunch","scripts":["Stage.hx"]},
+        {"name":"milkyway","scripts":["Events.hx"]},
+        {"name":"choke-a-lot","scripts":["Events.hx"]},
         {"name":"doubt","scripts":[]},
         {"name":"hope","scripts":[]},
         {"name":"reunion","scripts":[]},
-        {"name":"smile","scripts":[]},
-        {"name":"order up","scripts":[]},
-        {"name":"last course","scripts":[]},
+        {"name":"smile","scripts":["Stage.hx"]},
+        {"name":"order up","scripts":["Events.hx"]},
+        {"name":"last course","scripts":["Events.hx"]},
         {"name":"soundtest","scripts":[]},
         {"name":"alert","scripts":[]},
         {"name":"legacy","scripts":[]},
@@ -34,5 +34,5 @@
         {"name":"threat","scripts":[]},
         {"name":"rumor","scripts":[]}
     ],
-    "noteskins":["default"]
+    "noteskins":["default", "epic", "cereal", "sad"]
 }

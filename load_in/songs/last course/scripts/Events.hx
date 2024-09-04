@@ -1,0 +1,1 @@
+importScript("songs/smile/scripts/stage");
